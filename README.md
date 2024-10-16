@@ -1,3 +1,6 @@
+ <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300" style="border-radius: 10px;">
+
+
 # Olá! Eu sou o Jam Batista 👋
 
 [![Linkedin: Jam Batista](https://img.shields.io/badge/-Jam%20Batista-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jam-batista-98101015b/)](https://www.linkedin.com/in/jam-batista-98101015b/)
