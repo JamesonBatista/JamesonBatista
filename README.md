@@ -14,7 +14,6 @@ Sou especialista em **Qualidade de Software** com foco em automação e processo
 ## 🎯 Certificações
 - **ISTQB - CTFL**
 - **ISTQB - CTFL-AT**
-- **Certificação Cypress**
 
 ## 🚀 Tecnologias e Ferramentas
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
