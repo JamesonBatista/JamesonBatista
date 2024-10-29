@@ -1,5 +1,6 @@
  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300" style="border-radius: 10px;">
 
+![Profile Views](https://komarev.com/ghpvc/?username=JamesonBatista&color=green)
 
 # Olá! Eu sou o Jam Batista 👋
 
